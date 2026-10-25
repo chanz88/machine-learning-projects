@@ -13,3 +13,6 @@ A simple Regression Tree project to predict medical insurance charges based on s
 
 ### 4. Random Forest
 Random Forest project to predict whether a telecom customer will churn (leave the service) based on demographic, account, and service usage features, and to compare its performance with a Decision Tree
+
+### 5. K-Means Clustering
+K-Means Clustering project to group iris flowers based on their sepal and petal measurements
