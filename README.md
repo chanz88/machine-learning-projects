@@ -12,7 +12,7 @@ Logistic Regression project to predict whether an individual's annual income exc
 A simple Regression Tree project to predict medical insurance charges based on several personal and demographic features. This project uses the same topic and dataset as Project 1 (Linear Regression) to compare how the two models differ and how they perform on the same task.
 
 ### 4. Random Forest
-Random Forest project to predict whether a telecom customer will churn (leave the service) based on demographic, account, and service usage features, and to compare its performance with a Decision Tree
+Random Forest project to predict whether a telecom customer will churn (leave the service) based on demographic, account, and service usage features, and to compare its performance with a Decision Tree.
 
 ### 5. K-Means Clustering
-K-Means Clustering project to group iris flowers based on their sepal and petal measurements
+K-Means Clustering project to group iris flowers based on their sepal and petal measurements.
